@@ -4,4 +4,5 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27018/todo
+      uri: mongodb+srv://afstest:afs2022@cluster0.8uetomp.mongodb.net/todo
+      database: todo
